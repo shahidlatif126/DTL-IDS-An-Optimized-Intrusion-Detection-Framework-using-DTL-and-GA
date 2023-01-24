@@ -8,6 +8,8 @@ In the proposed framework, the latest cybersecurity dataset Edge-IIoTset is util
 A detailed description of the dataset is available in this article.
 [Edge-IIoTset: A New Comprehensive Realistic Cyber Security Dataset of IoT and IIoT Applications for Centralized and Federated Learning](https://ieeexplore.ieee.org/document/9751703) <br>
 
-The preprocessed version of Edge-IIoTset can be accessed from Google Drive.
+The preprocessed version of Edge-IIoTset can be accessed from Google Drive. <br>
+[Preprocessed Edge-IIoTset Dataset](https://drive.google.com/file/d/1bKfr1LsQofU6c3yidWq9NZA0UN58GmGV/view?usp=sharing) <br>
 
+The complete notebook for data preprocessing is available:   **1.EdgeIIoTset_Preprocessing.ipynb**
 
