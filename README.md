@@ -16,4 +16,8 @@ The complete notebook for data preprocessing is available:   **1.EdgeIIoTset_Pre
 **Dataset Transformation** <br>
 The preprocessed dataset is transformed into an image dataset for better training with CNN architectures. The complete notebook for data transformation is available: **2. Data_Transformation.ipynb** <br>
 
-The trasformed image datasets can be accessed from Gooogle Drive: [Edge-IIoT Image Dataset](https://drive.google.com/drive/folders/1N2QRN70TZn4ndQCv5xXebxbkDvPCoLhZ?usp=share_link)
+The trasformed image datasets can be accessed from Gooogle Drive: [Edge-IIoT Image Dataset](https://drive.google.com/drive/folders/1N2QRN70TZn4ndQCv5xXebxbkDvPCoLhZ?usp=share_link) <br>
+
+**Hyperparameter Optimization with Genetic Algorithm** <br>
+The optimal training parameters for all the base learning models are obtained using Agentic Algorithm. The reference implemetation of GA for a generic CNN can be found here: [HPO of CNN with GA](https://github.com/KrishnaManmayi/Hyper-Parameter-Optimization-of-CNN-using-genetic-algorithm) <br>
+The complete notebook for HPO with GA is available: **3. HPO_with_GA.ipynb** <br>
