@@ -11,5 +11,9 @@ A detailed description of the dataset is available in this article.
 The preprocessed version of Edge-IIoTset can be accessed from Google Drive. <br>
 [Preprocessed Edge-IIoTset Dataset](https://drive.google.com/file/d/1bKfr1LsQofU6c3yidWq9NZA0UN58GmGV/view?usp=sharing) <br>
 
-The complete notebook for data preprocessing is available:   **1.EdgeIIoTset_Preprocessing.ipynb**
+The complete notebook for data preprocessing is available:   **1.EdgeIIoTset_Preprocessing.ipynb** <br>
 
+**Dataset Transformation** <br>
+The preprocessed dataset is transformed into an image dataset for better training with CNN architectures. The complete notebook for data transformation is available: **2. Data_Transformation.ipynb** <br>
+
+The trasformed image datasets can be accessed from Gooogle Drive: [Edge-IIoT Image Dataset](https://drive.google.com/drive/folders/1N2QRN70TZn4ndQCv5xXebxbkDvPCoLhZ?usp=share_link)
