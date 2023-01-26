@@ -23,6 +23,6 @@ The optimal training parameters for all the base learning models are obtained us
 The complete notebook for HPO with GA is available: **3. HPO_with_GA.ipynb** <br>
 
 **4. Final Training and Performance Evaluation** <br>
-The complete notebook for trining and performance evaluation is available: **4. Final_Training_Evaluation.ipynb** <br>
+The complete notebook for trining and performance evaluation is available: **4. Optimized_Training_Evaluation.ipynb** <br>
 
-Trained models can be accessed from Google Drive: [Trained Models](https://drive.google.com/drive/folders/1A-8IhUYapUTZFfSyTnG07pOS06KVHNyw?usp=share_link)
+Trained models can be accessed from Google Drive: [Optimized Trained Models](https://drive.google.com/drive/folders/1j7IHO0qvq63uFkBfmFxdHyCdUMDnVB2o?usp=share_link)
