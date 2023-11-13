@@ -1,4 +1,4 @@
-# DTL-IDS: AN OPTIMIZED INTRUSION DETECTION FRAMEWORK USING DEEP TRANSFER LEARNING AND GENETIC ALGORITHM
+# DTL-IDS: An Optimized Intrusion Detection Framework using Deep Transfer Learning and Genetic Algorithm
 This repository presents the implemetation of a highly optimized Deep Transfer Learning (DTL) and Genetic Algorithm (GA) based intrusion detection framework. The complete Jupyter Notebooks and dataset are shared for upcoming researchers to contribute to advancements in intrusion detection systems.
 
 **1. Utilized Dataset Edge-IIoTset** <br>
