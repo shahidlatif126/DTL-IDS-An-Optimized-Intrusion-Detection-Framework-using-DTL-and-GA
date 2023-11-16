@@ -6,12 +6,12 @@ This repository presents the implemetation of a highly optimized Deep Transfer L
 
 **Please Cite** <br>
 @article{latif2023dtl,<br>
-  title={DTL-IDS: An optimized Intrusion Detection Framework using Deep Transfer Learning and Genetic Algorithm},
-  author={Latif, Shahid and Boulila, Wadii and Koubaa, Anis and Zou, Zhuo and Ahmad, Jawad},
-  journal={Journal of Network and Computer Applications},
-  pages={103784},
-  year={2023},
-  publisher={Elsevier}
+  title={DTL-IDS: An optimized Intrusion Detection Framework using Deep Transfer Learning and Genetic Algorithm},<br>
+  author={Latif, Shahid and Boulila, Wadii and Koubaa, Anis and Zou, Zhuo and Ahmad, Jawad},<br>
+  journal={Journal of Network and Computer Applications},<br>
+  pages={103784},<br>
+  year={2023},<br>
+  publisher={Elsevier}<br>
 }
 
 <br>
