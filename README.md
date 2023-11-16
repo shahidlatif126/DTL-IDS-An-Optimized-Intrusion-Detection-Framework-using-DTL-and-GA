@@ -15,8 +15,7 @@ This repository presents the implemetation of a highly optimized Deep Transfer L
 }
 
 <br>
-Latif, Shahid, Wadii Boulila, Anis Koubaa, Zhuo Zou, and Jawad Ahmad. "DTL-IDS: An optimized Intrusion Detection Framework using Deep Transfer Learning and Genetic Algorithm." Journal of Network and Computer Applications (2023): 103784.
-<br>
+
 
 
 **1. Utilized Dataset Edge-IIoTset** <br>
