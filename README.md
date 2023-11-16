@@ -14,6 +14,11 @@ This repository presents the implemetation of a highly optimized Deep Transfer L
   publisher={Elsevier}
 }
 
+<br>
+Latif, Shahid, Wadii Boulila, Anis Koubaa, Zhuo Zou, and Jawad Ahmad. "DTL-IDS: An optimized Intrusion Detection Framework using Deep Transfer Learning and Genetic Algorithm." Journal of Network and Computer Applications (2023): 103784.
+<br>
+
+
 **1. Utilized Dataset Edge-IIoTset** <br>
 In the proposed framework, the latest cybersecurity dataset Edge-IIoTset is utilized. It can be accessed from Kaggle. <br>
 [Edge-IIoTset Cyber Security Dataset of IoT & IIoT](https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot) <br>
