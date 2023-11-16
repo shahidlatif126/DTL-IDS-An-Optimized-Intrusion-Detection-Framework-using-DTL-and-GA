@@ -31,7 +31,7 @@ The preprocessed version of Edge-IIoTset can be accessed from Google Drive. <br>
 The complete notebook for data preprocessing is available:   **1.EdgeIIoTset_Preprocessing.ipynb** <br>
 
 **2. Dataset Transformation** <br>
-The preprocessed dataset is transformed into an image dataset for better training with CNN architectures. The complete notebook for data transformation is available: **2.Data_Transformation.ipynb** <br>
+The preprocessed dataset is transformed into an image dataset for better training with CNN architectures. We transfromed our dataset into images by utilizing the open source repository provided by [Western-OC2-Lab] (https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning/tree/main) The complete notebook for data transformation is available: **2.Data_Transformation.ipynb** <br>
 
 The trasformed image datasets can be accessed from Gooogle Drive: [Edge-IIoT Image Dataset](https://drive.google.com/drive/folders/1N2QRN70TZn4ndQCv5xXebxbkDvPCoLhZ?usp=share_link) <br>
 
